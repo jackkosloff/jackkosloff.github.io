@@ -1,2 +1,2 @@
-# decription
-Jackson Kosloff: Student at 42 Silicon Valley
+# Jackson Kosloff
+42 Silicon Valley
